@@ -5,6 +5,7 @@ This command-line application creates simple SVG logos using inputs from the use
 
 ## Screen Recording Link to Show Application
 
+Link to screen recording: https://drive.google.com/file/d/1lKTAfLL31YZmf1sRtH6tfHO44J3I7-VI/view 
 
 
 ## Screenshots
@@ -27,7 +28,7 @@ Square:
 
 
 ## Installation 
-1. Use git clone to clone the repo onto your device. 
+1. Use git clone to clone the repo onto your device. Link to my repo: https://github.com/kpfenning/Kendalls-Logo-Maker 
 2. Find your cloned file and open in VS Code. 
 3. Open your terminal, make sure you are in the correct directory. (Make sure you have node installed)
 4. Then you will want to make sure you have all of the dependencies installed. (npm i inquirer@8.2.4 & npm i jest)

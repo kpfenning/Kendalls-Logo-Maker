@@ -1,5 +1,4 @@
 const colorsArray = require('./lib/colors.js').colorsArray;
-const colors = require('./lib/colors.js');
 const shapes = require('./lib/shapes.js');
 const { Triangle, Circle, Square } = require('./lib/shapes.js');
 const fs = require('fs');

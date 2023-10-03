@@ -2,11 +2,11 @@
             <svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'>
                 
             undefined
-            <rect x="70" y="20" width="160" height="160" fill="green"/>
+            <circle cx="150" cy="100" r="90" fill="darkgrey"/>
         
                 <text x="150" y="148.14814814814815" 
                     text-anchor="middle"
-                    fill="white" font-size="30">
+                    fill="#B17CDD" font-size="30">
                     HI
                 </text>
             </svg>
